@@ -1,0 +1,62 @@
+
+City       : South Willington
+StateShort : CT
+StateFull  : Connecticut
+County     : TOLLAND
+CityAlias  : South Willington
+
+City       : South Windham
+StateShort : CT
+StateFull  : Connecticut
+County     : WINDHAM
+CityAlias  : South Windham
+
+City       : South Woodstock
+StateShort : CT
+StateFull  : Connecticut
+County     : WINDHAM
+CityAlias  : South Woodstock
+
+City       : South Woodstock
+StateShort : CT
+StateFull  : Connecticut
+County     : WINDHAM
+CityAlias  : S Woodstock
+
+City       : Storrs Mansfield
+StateShort : CT
+StateFull  : Connecticut
+County     : TOLLAND
+CityAlias  : Gurleyville
+
+City       : Storrs Mansfield
+StateShort : CT
+StateFull  : Connecticut
+County     : TOLLAND
+CityAlias  : Mansfield
+
+City       : Storrs Mansfield
+StateShort : CT
+StateFull  : Connecticut
+County     : TOLLAND
+CityAlias  : Storrs/mansfield
+
+City       : Storrs Mansfield
+StateShort : CT
+StateFull  : Connecticut
+County     : TOLLAND
+CityAlias  : Storrs Manfld
+
+City       : Storrs Mansfield
+StateShort : CT
+StateFull  : Connecticut
+County     : TOLLAND
+CityAlias  : Storrs Mansfield
+
+City       : Storrs Mansfield
+StateShort : CT
+StateFull  : Connecticut
+County     : TOLLAND
+CityAlias  : Storrs
+
+

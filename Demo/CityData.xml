@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">South Willington</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">TOLLAND</Property>
+    <Property Name="CityAlias" Type="System.String">South Willington</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">South Willington</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">TOLLAND</Property>
+      <Property Type="System.String">South Willington</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">South Windham</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">WINDHAM</Property>
+    <Property Name="CityAlias" Type="System.String">South Windham</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">South Windham</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">WINDHAM</Property>
+      <Property Type="System.String">South Windham</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">South Woodstock</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">WINDHAM</Property>
+    <Property Name="CityAlias" Type="System.String">South Woodstock</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">South Woodstock</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">WINDHAM</Property>
+      <Property Type="System.String">South Woodstock</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">South Woodstock</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">WINDHAM</Property>
+    <Property Name="CityAlias" Type="System.String">S Woodstock</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">South Woodstock</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">WINDHAM</Property>
+      <Property Type="System.String">S Woodstock</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">Storrs Mansfield</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">TOLLAND</Property>
+    <Property Name="CityAlias" Type="System.String">Gurleyville</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">Storrs Mansfield</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">TOLLAND</Property>
+      <Property Type="System.String">Gurleyville</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">Storrs Mansfield</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">TOLLAND</Property>
+    <Property Name="CityAlias" Type="System.String">Mansfield</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">Storrs Mansfield</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">TOLLAND</Property>
+      <Property Type="System.String">Mansfield</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">Storrs Mansfield</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">TOLLAND</Property>
+    <Property Name="CityAlias" Type="System.String">Storrs/mansfield</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">Storrs Mansfield</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">TOLLAND</Property>
+      <Property Type="System.String">Storrs/mansfield</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">Storrs Mansfield</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">TOLLAND</Property>
+    <Property Name="CityAlias" Type="System.String">Storrs Manfld</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">Storrs Mansfield</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">TOLLAND</Property>
+      <Property Type="System.String">Storrs Manfld</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">Storrs Mansfield</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">TOLLAND</Property>
+    <Property Name="CityAlias" Type="System.String">Storrs Mansfield</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">Storrs Mansfield</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">TOLLAND</Property>
+      <Property Type="System.String">Storrs Mansfield</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+  <Object Type="System.Data.DataRow">
+    <Property Name="City" Type="System.String">Storrs Mansfield</Property>
+    <Property Name="StateShort" Type="System.String">CT</Property>
+    <Property Name="StateFull" Type="System.String">Connecticut</Property>
+    <Property Name="County" Type="System.String">TOLLAND</Property>
+    <Property Name="CityAlias" Type="System.String">Storrs</Property>
+    <Property Name="RowError" Type="System.String"></Property>
+    <Property Name="RowState" Type="System.Data.DataRowState">Detached</Property>
+    <Property Name="Table" Type="System.Data.DataTable" />
+    <Property Name="ItemArray" Type="System.Object[]">
+      <Property Type="System.String">Storrs Mansfield</Property>
+      <Property Type="System.String">CT</Property>
+      <Property Type="System.String">Connecticut</Property>
+      <Property Type="System.String">TOLLAND</Property>
+      <Property Type="System.String">Storrs</Property>
+    </Property>
+    <Property Name="HasErrors" Type="System.Boolean">False</Property>
+  </Object>
+</Objects>

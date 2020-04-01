@@ -1,0 +1,40 @@
+
+City             StateShort StateFull   County  CityAlias
+----             ---------- ---------   ------  ---------
+South Willington CT         Connecticut TOLLAND South Willington
+South Windham    CT         Connecticut WINDHAM South Windham
+South Woodstock  CT         Connecticut WINDHAM South Woodstock
+South Woodstock  CT         Connecticut WINDHAM S Woodstock
+Storrs Mansfield CT         Connecticut TOLLAND Gurleyville
+Storrs Mansfield CT         Connecticut TOLLAND Mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs/mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs Manfld
+Storrs Mansfield CT         Connecticut TOLLAND Storrs Mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs
+
+
+City             StateShort StateFull   County  CityAlias
+----             ---------- ---------   ------  ---------
+South Willington CT         Connecticut TOLLAND South Willington
+South Windham    CT         Connecticut WINDHAM South Windham
+South Woodstock  CT         Connecticut WINDHAM South Woodstock
+South Woodstock  CT         Connecticut WINDHAM S Woodstock
+Storrs Mansfield CT         Connecticut TOLLAND Gurleyville
+Storrs Mansfield CT         Connecticut TOLLAND Mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs/mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs Manfld
+Storrs Mansfield CT         Connecticut TOLLAND Storrs Mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs
+
+
+South Willington CT         Connecticut TOLLAND South Willington
+South Windham    CT         Connecticut WINDHAM South Windham
+South Woodstock  CT         Connecticut WINDHAM South Woodstock
+South Woodstock  CT         Connecticut WINDHAM S Woodstock
+Storrs Mansfield CT         Connecticut TOLLAND Gurleyville
+Storrs Mansfield CT         Connecticut TOLLAND Mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs/mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs Manfld
+Storrs Mansfield CT         Connecticut TOLLAND Storrs Mansfield
+Storrs Mansfield CT         Connecticut TOLLAND Storrs
+
